@@ -1,3 +1,25 @@
 body {
-  background-color: red;
+  /* background-color: red; */
+}
+
+.container {
+  width: 800px;
+  background: red;
+  margin: auto;
+  margin-top: 50px;
+}
+
+.phoneImage {
+  height: 200px;
+  width: 350px;
+  background-color: green;
+  display: inline-block;
+  margin: 0px;
+}
+
+.signUpForm {
+  height: 200px;
+  width: 350px;
+  background-color: blue;
+  display: inline-block;
 }
